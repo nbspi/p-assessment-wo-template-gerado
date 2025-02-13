@@ -1,15 +1,26 @@
 # **Practical Assessment**
-## **Lou Geh Cardealership Company**
-Lou Geh car dealership sells both new and used cars, and it operates a service facility.
-- A salesperson may sell many cars, but each car is sold by only one salesperson.
-- A customer may buy many cars, but each car is bought by only one customer.
-- A salesperson writes a single invoice for each car he or she sells.
-- A customer gets an invoice for each car he or she buys.
-- A customer may come in just to have his or her car serviced; that is, a customer need not buy a car to be classified as a customer.
--	When a customer takes one or more cars in for repair or service, one service ticket is written for each car.
--	The car dealership maintains a service history for each of the cars serviced. The service records are referenced by the car’s serial number.
-- A car brought in for service can be worked on by many mechanics, and each mechanic may work on many cars.
-- A car that is serviced may or may not need parts (e.g., adjusting a carburetor or cleaning a fuel injector nozzle does not require providing new parts).
+## **The Lou Geh Supermarket**
+The Lou Geh supermarket is embracing the digital era by establishing a comprehensive
+e-commerce platform to enhance customer experience and streamline operations. This
+platform will seamlessly integrate supplier management, inventory tracking, customer
+profiling, and order processing, ensuring a seamless and efficient shopping experience
+for its valued customers.
+
+Each supplier has a unique code, the name of the company and their contact number, as
+well as the address of the company.
+They record all the items delivered by their suppliers. Each item has a barcode, a product
+description, quantity and the cost per unit item as indicated in the delivery receipt. They
+have real-time inventory updates to reflect product availability on the e-commerce
+platform.
+
+During sales transaction they record the product sold to every customer. They record the
+quantity and the unit price of every item, as indicated in the official receipt.
+For every customer they record their name, address and contact number. The e-
+commerce enables customers to browse the platform, add items to their carts, and
+proceed to checkout securely, provide multiple payment gateways to accommodate
+diverse customer preferences and ensure seamless transactions, and Offer various
+delivery options, including same-day delivery, scheduled delivery, and in-store pickup, to
+cater to customer convenience.
 
 ## **Task**
 1. Create a prototype based on the attached problem
@@ -22,7 +33,7 @@ Lou Geh car dealership sells both new and used cars, and it operates a service f
    2. DFD
 4. Provide a ```README.md``` containing the setup guide.
 5. The application should be published in Github via forked repository and for final version of your prototype will create a ```Pull request``` in Github 
-6. You will send the Github link to us thru our email devops@biotechfarms.com on or before **14-10-203** 12:00 PM
+6. You will send the Github link to us thru our email devops@biotechfarms.com on or before 16-02-2025 12:00 PM
 
 
     ### **Directory structure**
